@@ -1,0 +1,15 @@
+{
+  "name": "k6-performance-tests",
+  "version": "1.0.0",
+  "description": "Testes de performance com k6",
+  "scripts": {
+    "test": "k6 run tests/01-modulo-fundamentos/hello-world.js"
+  },
+  "keywords": [
+    "k6",
+    "performance",
+    "testing"
+  ],
+  "author": "Leonardo  Costa",
+  "license": "MIT"
+}
